@@ -97,9 +97,7 @@ const EditorPage = () => {
                 <div className="asideInner">
                     <div className="logo">
                         <img
-                            className="logoImage"
-                            src="/code-sync.png"
-                            alt="logo"
+                           src='https://d4.alternativeto.net/cu1Hi72s3gK9onD8Or6eO5wI1tUSHP3Abggc8NBOsAQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zaW1wbGUtY29kZS1lZGl0b3JfNzI1NDgucG5n.png' alt='not load' width={70} height={70}
                         />
                     </div>
                     <h3>Connected</h3>

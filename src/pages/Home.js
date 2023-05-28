@@ -39,8 +39,8 @@ const Home = () => {
             <div className="formWrapper">
                 <img
                     className="homePageLogo"
-                    src="/code-sync.png"
-                    alt="code-sync-logo"
+                   src='https://d4.alternativeto.net/cu1Hi72s3gK9onD8Or6eO5wI1tUSHP3Abggc8NBOsAQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zaW1wbGUtY29kZS1lZGl0b3JfNzI1NDgucG5n.png'
+                  alt='code editor' width={80} height={80}
                 />
                 <h4 className="mainLabel">Paste invitation ROOM ID</h4>
                 <div className="inputGroup">
@@ -76,11 +76,8 @@ const Home = () => {
                 </div>
             </div>
             <footer>
-                <h4>
-                    Built with 💛 &nbsp; by &nbsp;
-                    <a href="https://github.com/codersgyan">Coder's Gyan</a>
-                </h4>
-            </footer>
+            <h4>Built by <a href='https://aimran4445.github.io/Portfolio/'> &nbsp; Ali Imran </a></h4>
+        </footer>
         </div>
     );
 };
